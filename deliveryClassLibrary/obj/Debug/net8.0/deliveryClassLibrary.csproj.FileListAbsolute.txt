@@ -1,0 +1,13 @@
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\obj\Debug\net8.0\deliveryClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\obj\Debug\net8.0\deliveryClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\obj\Debug\net8.0\deliveryClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\obj\Debug\net8.0\deliveryClassLibrary.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\obj\Debug\net8.0\deliveryClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\obj\Debug\net8.0\deliveryClassLibrary.sourcelink.json
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\bin\Debug\net8.0\deliveryClassLibrary.deps.json
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\bin\Debug\net8.0\deliveryClassLibrary.dll
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\bin\Debug\net8.0\deliveryClassLibrary.pdb
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\obj\Debug\net8.0\deliveryClassLibrary.dll
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\obj\Debug\net8.0\refint\deliveryClassLibrary.dll
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\obj\Debug\net8.0\deliveryClassLibrary.pdb
+C:\Users\Дмитрий\source\repos\deliveryClassLibrary\obj\Debug\net8.0\ref\deliveryClassLibrary.dll

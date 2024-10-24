@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{361057D5-CCD4-4EED-ACF0-4B02CAE80899}|deliveryConsoleApp.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361057D5-CCD4-4EED-ACF0-4B02CAE80899}|deliveryConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361057D5-CCD4-4EED-ACF0-4B02CAE80899}|deliveryConsoleApp.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryconsoleapp\\deliveryconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{361057D5-CCD4-4EED-ACF0-4B02CAE80899}|deliveryConsoleApp.csproj|solutionrelative:deliveryconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\userinterface\\consoleuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\validation\\imodelvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\validation\\ordervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\userinterface\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryConsoleApp\\bin\\Debug\\net8.0\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net8.0\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\repository\\orders\\fileorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\data\\filedatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\repository\\orders\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\userinterface\\iwriteuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\filtration\\orderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\logger\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\data\\fileresultwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\data\\iresultwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C074FDFE-BFB3-4208-BFAD-56045AD12D97}|..\\deliveryTests\\deliveryTests.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliverytests\\validationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\ordersgeneration\\ordergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C074FDFE-BFB3-4208-BFAD-56045AD12D97}|..\\deliveryTests\\deliveryTests.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliverytests\\fileorderrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C074FDFE-BFB3-4208-BFAD-56045AD12D97}|..\\deliveryTests\\deliveryTests.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliverytests\\filtertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\logger\\loglevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\logger\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\userinterface\\ireaduserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1658E7FE-C8C8-49B8-853B-7F510AA034D7}|..\\deliveryClassLibrary\\deliveryClassLibrary.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryclasslibrary\\data\\idatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C074FDFE-BFB3-4208-BFAD-56045AD12D97}|..\\deliveryTests\\deliveryTests.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliverytests\\deliverytests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleUserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\UserInterface\\ConsoleUserInterface.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\UserInterface\\ConsoleUserInterface.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\UserInterface\\ConsoleUserInterface.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\UserInterface\\ConsoleUserInterface.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:25:24.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\UserInterface\\IUserInterface.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\UserInterface\\IUserInterface.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\UserInterface\\IUserInterface.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\UserInterface\\IUserInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:27:55.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderValidation.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Validation\\OrderValidation.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Validation\\OrderValidation.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Validation\\OrderValidation.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Validation\\OrderValidation.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:33:23.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IModelValidation.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Validation\\IModelValidation.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Validation\\IModelValidation.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Validation\\IModelValidation.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Validation\\IModelValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:04:01.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "deliveryConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryConsoleApp\\deliveryConsoleApp.csproj",
+              "RelativeDocumentMoniker": "deliveryConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryConsoleApp\\deliveryConsoleApp.csproj",
+              "RelativeToolTip": "deliveryConsoleApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T13:32:01.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryConsoleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:29:49.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "orders.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryConsoleApp\\bin\\Debug\\net8.0\\orders.json",
+              "RelativeDocumentMoniker": "bin\\Debug\\net8.0\\orders.json",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryConsoleApp\\bin\\Debug\\net8.0\\orders.json",
+              "RelativeToolTip": "bin\\Debug\\net8.0\\orders.json",
+              "ViewState": "AQIAADoCAAAAAAAAAAAAAIIBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T22:14:56.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Repository\\Orders\\FileOrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Repository\\Orders\\FileOrderRepository.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Repository\\Orders\\FileOrderRepository.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Repository\\Orders\\FileOrderRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:59:05.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Repository\\Orders\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Repository\\Orders\\IRepository.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Repository\\Orders\\IRepository.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Repository\\Orders\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:58:44.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Services\\OrderService.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Services\\OrderService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:53:33.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileDataSource.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Data\\FileDataSource.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Data\\FileDataSource.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Data\\FileDataSource.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Data\\FileDataSource.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA0wCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:35:07.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Services\\IOrderService.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:44:30.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IWriteUserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\UserInterface\\IWriteUserInterface.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\UserInterface\\IWriteUserInterface.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\UserInterface\\IWriteUserInterface.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\UserInterface\\IWriteUserInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:27:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderFilter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Filtration\\OrderFilter.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Filtration\\OrderFilter.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Filtration\\OrderFilter.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Filtration\\OrderFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:55:07.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Logger\\FileLogger.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Logger\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Logger\\FileLogger.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Logger\\FileLogger.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:49:40.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IResultWriter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Data\\IResultWriter.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Data\\IResultWriter.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Data\\IResultWriter.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Data\\IResultWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:18:34.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileResultWriter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Data\\FileResultWriter.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Data\\FileResultWriter.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Data\\FileResultWriter.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Data\\FileResultWriter.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:19:39.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ValidationTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryTests\\ValidationTests.cs",
+              "RelativeDocumentMoniker": "..\\deliveryTests\\ValidationTests.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryTests\\ValidationTests.cs",
+              "RelativeToolTip": "..\\deliveryTests\\ValidationTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:56:22.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\OrdersGeneration\\OrderGenerator.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\OrdersGeneration\\OrderGenerator.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\OrdersGeneration\\OrderGenerator.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\OrdersGeneration\\OrderGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:52:23.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FileOrderRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryTests\\FileOrderRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\deliveryTests\\FileOrderRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryTests\\FileOrderRepositoryTests.cs",
+              "RelativeToolTip": "..\\deliveryTests\\FileOrderRepositoryTests.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwDoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:57:44.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FilterTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryTests\\FilterTests.cs",
+              "RelativeDocumentMoniker": "..\\deliveryTests\\FilterTests.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryTests\\FilterTests.cs",
+              "RelativeToolTip": "..\\deliveryTests\\FilterTests.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:56:41.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Models\\Order.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:55:20.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LogLevel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Logger\\LogLevel.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Logger\\LogLevel.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Logger\\LogLevel.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Logger\\LogLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:19:50.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Logger\\ILogger.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Logger\\ILogger.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Logger\\ILogger.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Logger\\ILogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:48:48.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IReadUserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\UserInterface\\IReadUserInterface.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\UserInterface\\IReadUserInterface.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\UserInterface\\IReadUserInterface.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\UserInterface\\IReadUserInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:27:35.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDataSource.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Data\\IDataSource.cs",
+              "RelativeDocumentMoniker": "..\\deliveryClassLibrary\\Data\\IDataSource.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryClassLibrary\\Data\\IDataSource.cs",
+              "RelativeToolTip": "..\\deliveryClassLibrary\\Data\\IDataSource.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:34:41.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "deliveryTests",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryTests\\deliveryTests.csproj",
+              "RelativeDocumentMoniker": "..\\deliveryTests\\deliveryTests.csproj",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\deliveryTests\\deliveryTests.csproj",
+              "RelativeToolTip": "..\\deliveryTests\\deliveryTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T21:12:35.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 7,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

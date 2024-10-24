@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuuzDMoV1HM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дмитрий\\source\\repos\\deliveryClassLibrary\\deliveryClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
